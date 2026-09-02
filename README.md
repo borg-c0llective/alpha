@@ -8,7 +8,11 @@
 <img src="">-->
 <div align="center">
   <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif"><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">--><img src="https://64.media.tumblr.com/27c0ff8187d3d62bfd8b4f79c2bc5468/1448b31dbe408908-20/s400x600/bc96d3e3e42b4ddd412e9b4a7d1388c13df8f438.gifv">
-    <h1>Commander Riker</h1>
+   <h1>
+     You will discontinue from this page. Information contained here is outdated. Redirect to main repository https://github.com/borg-c0llective/borg-c0llective
+   </h1>
+  
+  <h1>Commander Riker</h1>
       <p>Current Other Alias(es): <strong>Seven</strong>, Janeway, Data, honestly any of the TNG crew if u know them</p>
       <p>
         <img title="Trans" alt="Trans" src="https://github.com/user-attachments/assets/9531435c-42f7-4cb2-a776-6bb2ea320a74">
